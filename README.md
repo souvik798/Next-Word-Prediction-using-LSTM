@@ -216,12 +216,13 @@ def create_model(total_words, max_sequence_len):
 
 
 ### 3. pad_seqs output
-![Screenshot 2024-11-05 210006](https://github.com/user-attachments/assets/815b2153-8408-4239-9371-5721460dcbb5)
+ ![4](https://github.com/user-attachments/assets/cb733c0b-8aea-44f7-b42f-8d6727bea248)
+
 
 
 ### 4. features_and_labels_dataset output
 
-![4](https://github.com/user-attachments/assets/cb733c0b-8aea-44f7-b42f-8d6727bea248)
+![DDD](https://github.com/user-attachments/assets/50241caf-4ed4-4d39-bb9b-b0fb96e3b5f3)
 
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
